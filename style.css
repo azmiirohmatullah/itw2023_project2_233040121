@@ -1,0 +1,42 @@
+body{
+    min-height: 4000px;
+}
+
+.jumbotron {
+    padding-top: 10rem;
+    font-family:'Times New Roman', Times, serif;
+    background-color: rgb(255, 132, 0);
+    background-image: url(img/foto\ copy.jpeg);
+    background-size: 700px;
+    height: 670px;
+}
+.about {
+    background-image: url(img/foto2.jpeg);
+}
+.col h2{
+    margin: 5%;
+}
+.title p{
+    margin: 5%;
+    font-size: 25px;
+}
+#product{
+    background-color: #FFA500;
+}
+.carousel-item img{
+   height: 900px;
+   width: 10px;
+   background-size: 100px;
+}
+#contact{
+    background-color: #FFA500;
+}
+.mb-3-3{
+    background-color:rgb(255, 208, 132);
+    margin-left: 350px;
+    padding: 15px;
+    border-radius: 10px;
+}
+section{
+    padding-top: 5rem;
+}
